@@ -1,8 +1,6 @@
-# Ashley-Olubanjo
-My personal Repository
 
-
-
+<h2> Hi, I'm Ashley Olubanjo! <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/LkZn0zTpjnpGxEeDRU/giphy.gif" width="230">
 
 ```python
 #!/usr/bin/python
