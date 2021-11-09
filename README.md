@@ -13,6 +13,7 @@ class DataScientist:
         self.name = "Ashley Olubanjo"
         self.role = "Data Scientist"
         self.language_spoken = ["en_UK"]
+        self.tools = ["Python", "SQL"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
