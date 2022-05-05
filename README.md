@@ -10,19 +10,19 @@
 # -*- coding: utf-8 -*-
 
 
-class DataScientist:
+class FullStackDeveloper:
 
     def __init__(self):
         self.name = "Ashley Olubanjo"
-        self.role = "Data Scientist"
+        self.role = "FullStack Developer"
         self.language_spoken = ["en_UK"]
-        self.tools = ["Python", "SQL"]
+        self.tools = ["Javascript","React","Python", "SQL"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = DataScientist()
+me = FullStackDeveloper()
 me.say_hi()
 ```
 <img src="https://media.giphy.com/media/0T3nHwbIcF5UbNedrP/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
