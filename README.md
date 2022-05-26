@@ -14,7 +14,7 @@ class FullStackDeveloper:
 
     def __init__(self):
         self.name = "Ashley Olubanjo"
-        self.role = "FullStack Developer"
+        self.role = "Front-end Developer"
         self.language_spoken = ["en_UK"]
         self.tools = ["Javascript","React","Python", "SQL"]
 
